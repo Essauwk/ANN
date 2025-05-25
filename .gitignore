@@ -1,0 +1,10 @@
+fer2013/
+license.txt
+load_and_process.py
+nb.ipynb
+README.md
+real_time_video.py
+requirements.txt
+trained_emotion_model.keras
+train_emotion_classifier.py
+__pycache__/ 
